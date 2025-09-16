@@ -2,13 +2,6 @@
 
 Bu proje, Unity oyun motoru ile geliştirilmiş 2D bir uzay nişancı oyunudur. Piksel sanat tarzını benimseyen bu oyun, mobil ve masaüstü dahil olmak üzere çoklu platform desteği sunar.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c7e345c8-4101-4d91-8bb8-9bf734208613" alt="Ekran Görüntüsü 1" width="48%">
-  <img src="https://github.com/user-attachments/assets/c80f254a-990c-49a3-b537-480657f51d94" alt="Ekran Görüntüsü 2" width="48%">
-  <br>
-  <img src="https://github.com/user-attachments/assets/7ab966ba-eb69-4c20-860e-de222ae29f7e" alt="Ekran Görüntüsü 3" width="48%">
-</p>
-
 ## ✨ Özellikler
 
 - **Dinamik Düşman Yapay Zekası:** Düşmanlar oyuncuyu aktif olarak takip eder ve saldırır.
@@ -49,5 +42,11 @@ Unity Editör'de mobil kontrolleri test etmek için, `Is Emulator` seçeneğini 
 ## irtibat
 
 Proje hakkında daha detaylı bilgi almak veya teklif sunmak isterseniz benimle iletişime geçebilirsiniz.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7e345c8-4101-4d91-8bb8-9bf734208613" alt="Ekran Görüntüsü 1" width="48%">
+  <img src="https://github.com/user-attachments/assets/c80f254a-990c-49a3-b537-480657f51d94" alt="Ekran Görüntüsü 2" width="48%">
+  <br>
+  <img src="https://github.com/user-attachments/assets/7ab966ba-eb69-4c20-860e-de222ae29f7e" alt="Ekran Görüntüsü 3" width="48%">
+</p>
 
 **E-posta:** huseyinyaman6666@gmail.com
