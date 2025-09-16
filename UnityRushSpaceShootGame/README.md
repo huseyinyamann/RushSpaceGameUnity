@@ -1,16 +1,50 @@
-2d Shooter game (Can be integrated into MOBILE DESKOP and ALL PLATFORMS).
-It is a game with a space theme, with enemies following us and constantly coming towards us, and gaining new weapons over time.
-How to Operate?
-You can run the project folder, which contains the Assets, Project Settings and Package folders, as a new project by clicking the "open" option in Unity.
-If you would like to get detailed information about the content of the project or submit offers, contact me.
-huseyinyaman6666@gmail.com
+# Rush Space Shooter Game
 
-![294755329-1b663eeb-f310-440b-9c6c-5b99d9755f38-min](https://github.com/user-attachments/assets/c7e345c8-4101-4d91-8bb8-9bf734208613)
-![294755267-dcbbb92b-8f2e-456d-9143-b3e2b8a446d2-min](https://github.com/user-attachments/assets/c80f254a-990c-49a3-b537-480657f51d94)
-![294755301-1b70fc34-44fe-4af2-b35b-335bb8134b14-min](https://github.com/user-attachments/assets/7ab966ba-eb69-4c20-860e-de222ae29f7e)
+Bu proje, Unity oyun motoru ile geliştirilmiş 2D bir uzay nişancı oyunudur. Piksel sanat tarzını benimseyen bu oyun, mobil ve masaüstü dahil olmak üzere çoklu platform desteği sunar.
 
-By checking the "Is Emulator" option on the computer,
-You can control it from your mobile device by making a mark.
-![294755392-7677b73f-a80b-4a9a-b5b3-961a4ae2ddaa-min](https://github.com/user-attachments/assets/0887eda9-b941-4c9d-9c31-f431bcbbec60)
+![Ekran Görüntüsü 1](https://github.com/user-attachments/assets/c7e345c8-4101-4d91-8bb8-9bf734208613)
+![Ekran Görüntüsü 2](https://github.com/user-attachments/assets/c80f254a-990c-49a3-b537-480657f51d94)
+![Ekran Görüntüsü 3](https://github.com/user-attachments/assets/7ab966ba-eb69-4c20-860e-de222ae29f7e)
 
+## ✨ Özellikler
 
+- **Dinamik Düşman Yapay Zekası:** Düşmanlar oyuncuyu aktif olarak takip eder ve saldırır.
+- **Geliştirme Sistemi:** Oyuncular kazandıklarıyla yeni silahlar ve yetenekler satın alabilir.
+- **Çoklu Platform Desteği:** Hem mobil (joystick ile) hem de masaüstü platformlarda oynanabilir.
+- **Envanter Sistemi:** Oyuncunun sahip olduğu eşyaları yönetmesi için bir envanter mevcuttur.
+
+## 🛠️ Gereksinimler
+
+- **Unity Editör Versiyonu:** `2022.2.9f1` veya daha yeni bir sürüm.
+
+## 🚀 Kurulum ve Çalıştırma
+
+1.  **Projeyi Klonlayın:**
+    ```bash
+    git clone https://github.com/kullanici/repo-adi.git
+    ```
+2.  **Projeyi Unity Hub'da Açın:**
+    - Unity Hub'ı başlatın.
+    - "Open" veya "Aç" seçeneğine tıklayarak klonladığınız proje klasörünü seçin.
+3.  **Oyunu Başlatın:**
+    - Proje Unity Editör'de açıldıktan sonra `Assets/Scenes` klasöründeki ana oyun sahnesini açın.
+    - Play (▶) butonuna basarak oyunu editörde başlatabilirsiniz.
+
+### 📱 Mobil Kontrolleri Test Etme
+
+Unity Editör'de mobil kontrolleri test etmek için, `Is Emulator` seçeneğini aktif hale getirerek joystick ve diğer mobil arayüz elemanlarını kullanabilirsiniz.
+
+![Emülatör](https://github.com/user-attachments/assets/0887eda9-b941-4c9d-9c31-f431bcbbec60)
+
+## 📦 Kullanılan Harici Asset'ler
+
+- **A\* Pathfinding Project:** Gelişmiş yol bulma algoritmaları için.
+- **Joystick Pack:** Mobil cihazlar için sanal joystick kontrolleri.
+- **2D Pixel Asteroids:** Asteroid ve uzay objeleri için grafikler.
+- **Free Pixel Space Platform Pack:** Çeşitli uzay temalı platform ve karakter grafikleri.
+
+## irtibat
+
+Proje hakkında daha detaylı bilgi almak veya teklif sunmak isterseniz benimle iletişime geçebilirsiniz.
+
+**E-posta:** huseyinyaman6666@gmail.com
