@@ -49,4 +49,4 @@ Proje hakkında daha detaylı bilgi almak veya teklif sunmak isterseniz benimle 
   <img src="https://github.com/user-attachments/assets/7ab966ba-eb69-4c20-860e-de222ae29f7e" alt="Ekran Görüntüsü 3" width="48%">
 </p>
 
-**E-posta:** huseyinyaman6666@gmail.com
+**E-posta:** yaman@nevira.net
