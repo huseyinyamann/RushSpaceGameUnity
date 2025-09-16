@@ -2,9 +2,12 @@
 
 Bu proje, Unity oyun motoru ile geliştirilmiş 2D bir uzay nişancı oyunudur. Piksel sanat tarzını benimseyen bu oyun, mobil ve masaüstü dahil olmak üzere çoklu platform desteği sunar.
 
-![Ekran Görüntüsü 1](https://github.com/user-attachments/assets/c7e345c8-4101-4d91-8bb8-9bf734208613)
-![Ekran Görüntüsü 2](https://github.com/user-attachments/assets/c80f254a-990c-49a3-b537-480657f51d94)
-![Ekran Görüntüsü 3](https://github.com/user-attachments/assets/7ab966ba-eb69-4c20-860e-de222ae29f7e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7e345c8-4101-4d91-8bb8-9bf734208613" alt="Ekran Görüntüsü 1" width="48%">
+  <img src="https://github.com/user-attachments/assets/c80f254a-990c-49a3-b537-480657f51d94" alt="Ekran Görüntüsü 2" width="48%">
+  <br>
+  <img src="https://github.com/user-attachments/assets/7ab966ba-eb69-4c20-860e-de222ae29f7e" alt="Ekran Görüntüsü 3" width="48%">
+</p>
 
 ## ✨ Özellikler
 
